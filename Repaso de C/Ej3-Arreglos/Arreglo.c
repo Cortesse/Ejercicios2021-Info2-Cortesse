@@ -7,7 +7,7 @@ int main()
     printf("El septimo valor del arreglo f es %c ",f[6]);
 
     //b
-    float b [8];
+    float b[8];
     b[4] = 5,3;
 
     //c
@@ -26,7 +26,7 @@ int main()
     }
 
     //e
-    double a[11], b[34];
+   double a[11], e[34];
 
     for(int i = 0; i< 11; i++)
     {
